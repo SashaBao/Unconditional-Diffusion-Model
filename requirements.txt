@@ -1,0 +1,7 @@
+torch
+torchvision
+os
+Pillow
+matplotlib
+tqdm
+logging
